@@ -6,6 +6,6 @@
     }
     public Action GetAction()
     {
-        return () => Console.WriteLine("Version V2");
+        return () => Console.WriteLine("Version V3");
     }
 }
