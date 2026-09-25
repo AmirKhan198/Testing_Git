@@ -6,7 +6,7 @@
     }
     public Action GetAction()
     {
-        Console.WriteLine("Version B2");
+        Console.WriteLine("Version P42");
         return () => Console.WriteLine("Version V4");
     }
 }
